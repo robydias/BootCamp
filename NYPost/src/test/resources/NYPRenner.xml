@@ -12,7 +12,7 @@
 
     <test name="Go to Home page">
         <classes>
-            <class name="TestRegression.HomePage"/>
+            <class name="TestRegression.TestHomePage"/>
         </classes>
     </test>
 </suite>

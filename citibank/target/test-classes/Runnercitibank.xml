@@ -10,12 +10,12 @@
     <parameter name="os_version" value="Sierra"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="53.0"/>
-    <parameter name="url" value="https://www.cigma.com"/>
+    <parameter name="url" value="https://www.citibank.com"/>
 
-    <test name=" Amazon Home">
+    <test name=" Facebook Home">
         <classes>
 
-            <class name="TestRegression.TestHomePage1"/>
+            <class name="TestRegression.TestHomePage"/>
 
         </classes>
     </test>

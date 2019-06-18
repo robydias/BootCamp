@@ -15,7 +15,7 @@
     <test name=" Amazon Home">
         <classes>
 
-            <class name="TestRegression.TestHomepage"/>
+            <class name="TestRegression.TestHomePage1"/>
 
         </classes>
     </test>

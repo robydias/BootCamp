@@ -13,6 +13,10 @@ public class HomePage extends CommonAPI {
     WebElement click;
     @FindBy(xpath = "//*[@id=\"nav-cart\"]")
     WebElement cart;
+
+    @FindBy(xpath = "//*[@id=\"search\"]/div[1]/div[2]/div/span[3]/div[1]/div[2]/div/div/div/div/div/div[2]/div[1]/div/div/span/a/div/img")
+    WebElement image;
+
     /**
      * This method will search for item x
      *
@@ -31,5 +35,8 @@ public class HomePage extends CommonAPI {
     public void accont(){
         accont.click();
 
+    }
+    public void setSoccer(){
+        image.click();
     }
 }
