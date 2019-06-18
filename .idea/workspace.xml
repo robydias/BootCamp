@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5413ee5d-79bb-4661-8d55-59196a243086" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/amazon/target/" />
+    <ignored path="$PROJECT_DIR$/cigna/target/" />
+    <ignored path="$PROJECT_DIR$/CNN/target/" />
+    <ignored path="$PROJECT_DIR$/facebook/target/" />
+    <ignored path="$PROJECT_DIR$/citibank/target/" />
+    <ignored path="$PROJECT_DIR$/NYPost/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facebook/src/main/java/Regression/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/main/java/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2601#2602#0" expanded="true" />
+                <element signature="e#2633#2634#0" expanded="true" />
+                <element signature="e#1669#1670#0" expanded="true" />
+                <element signature="e#1700#1701#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNN/src/test/java/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon/src/test/java/TestRegression/TestHomepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYPost/src/main/java/TestRegression/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NYPost/src/test/resources/NYPRenner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/MobileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYPost/src/test/java/TestRegression/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/amazon/src/main/java/Regression/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/citibank/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonIPA.java" />
+        <option value="$PROJECT_DIR$/CNN/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/amazon/src/test/resources/runneramzon.xml" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/cigna/src/test/resources/runnercigna.xml" />
+        <option value="$PROJECT_DIR$/facebook/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/resources/RunnerCNN.xml" />
+        <option value="$PROJECT_DIR$/facebook/src/test/resources/runnerfacebook.xml" />
+        <option value="$PROJECT_DIR$/amazon/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/pom.xml" />
+        <option value="$PROJECT_DIR$/NYPost/pom.xml" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/MobileTest.java" />
+        <option value="$PROJECT_DIR$/facebook/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/main/java/regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/amazon/src/test/java/TestHomepage.java" />
+        <option value="$PROJECT_DIR$/facebook/src/test/java/TestRegression/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/facebook/src/main/java/Regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/cigna/src/test/java/TestHomepage.java" />
+        <option value="$PROJECT_DIR$/cigna/src/test/java/TestRegression/TestHomepage.java" />
+        <option value="$PROJECT_DIR$/amazon/src/main/java/Regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/cigna/src/main/java/Regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/amazon/src/test/java/TestRegression/TestHomepage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/main/java/HomePage.java" />
+        <option value="$PROJECT_DIR$/CNN/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/main/java/TestRegression/HomePage.java" />
+        <option value="$PROJECT_DIR$/NYPost/src/test/resources/NYPRenner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="301" />
+    <option name="y" value="23" />
+    <option name="width" value="1379" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestRegression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="facebook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="TestRegression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BootCamp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BootCamp" type="462c0819:PsiDirectoryNode" />
+              <item name="NYPost" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/generic/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/citibank/src/test" />
+      <recent name="$PROJECT_DIR$/generic/src/test" />
+      <recent name="$PROJECT_DIR$/NYPost/src/test" />
+      <recent name="$PROJECT_DIR$/CNN/src/test" />
+      <recent name="$PROJECT_DIR$/facebook/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generic/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml">
+    <configuration name="MobileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.MobileTest" />
+      <module name="generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/CNN/src/test/resources/RunnerCNN.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CNN" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/CNN/src/test/resources/RunnerCNN.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NYPost" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/NYPost/src/test/resources/NYPRenner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/cigna/src/test/resources/runnercigna.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="cigna" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/cigna/src/test/resources/runnercigna.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/facebook/src/test/resources/runnerfacebook.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/facebook/src/test/resources/runnerfacebook.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" />
+        <item itemvalue="Application.MobileTest" />
+        <item itemvalue="TestNG./Users/rabaharabsaid/Downloads/BootCamp/cigna/src/test/resources/runnercigna.xml" />
+        <item itemvalue="TestNG./Users/rabaharabsaid/Downloads/BootCamp/facebook/src/test/resources/runnerfacebook.xml" />
+        <item itemvalue="TestNG./Users/rabaharabsaid/Downloads/BootCamp/CNN/src/test/resources/RunnerCNN.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5413ee5d-79bb-4661-8d55-59196a243086" name="Default Changelist" comment="" />
+      <created>1560812625628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560812625628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_CNN_src_test_resources_RunnerCNN_xml - 2019.06.18 at 09h 28m 44s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/CNN/src/test/resources/RunnerCNN.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_CNN_src_test_resources_RunnerCNN_xml - 2019.06.18 at 10h 16m 49s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/CNN/src/test/resources/RunnerCNN.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_CNN_src_test_resources_RunnerCNN_xml - 2019.06.18 at 10h 17m 21s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/CNN/src/test/resources/RunnerCNN.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_facebook_src_test_resources_runnerfacebook_xml - 2019.06.18 at 13h 40m 11s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/facebook/src/test/resources/runnerfacebook.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_facebook_src_test_resources_runnerfacebook_xml - 2019.06.18 at 13h 58m 31s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/facebook/src/test/resources/runnerfacebook.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_NYPost_src_test_resources_NYPRenner_xml - 2019.06.18 at 13h 58m 52s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_NYPost_src_test_resources_NYPRenner_xml - 2019.06.18 at 14h 00m 00s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_NYPost_src_test_resources_NYPRenner_xml - 2019.06.18 at 14h 00m 28s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_cigna_src_test_resources_runnercigna_xml - 2019.06.18 at 15h 33m 58s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/cigna/src/test/resources/runnercigna.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_rabaharabsaid_Downloads_BootCamp_NYPost_src_test_resources_NYPRenner_xml - 2019.06.18 at 16h 35m 36s.xml">
+      <configuration name="/Users/rabaharabsaid/Downloads/BootCamp/NYPost/src/test/resources/NYPRenner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="301" y="23" width="1379" height="960" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27150336" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32949308" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32949308" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32949308" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32948717" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24948454" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citibank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="199" column="13" lean-forward="true" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5971#5983#0" expanded="true" />
+            <element signature="e#6068#6076#0" expanded="true" />
+            <element signature="e#6373#6385#0" expanded="true" />
+            <element signature="e#6621#6633#0" expanded="true" />
+            <element signature="e#6948#6956#0" expanded="true" />
+            <element signature="e#10880#10881#0" expanded="true" />
+            <element signature="e#10910#10911#0" expanded="true" />
+            <element signature="e#11376#11377#0" expanded="true" />
+            <element signature="e#11443#11444#0" expanded="true" />
+            <element signature="e#12844#12845#0" expanded="true" />
+            <element signature="e#12911#12912#0" expanded="true" />
+            <element signature="e#13037#13049#0" expanded="true" />
+            <element signature="e#13259#13271#0" expanded="true" />
+            <element signature="e#13518#13519#0" expanded="true" />
+            <element signature="e#13561#13562#0" expanded="true" />
+            <element signature="e#13927#13928#0" expanded="true" />
+            <element signature="e#13994#13995#0" expanded="true" />
+            <element signature="e#14302#14310#0" expanded="true" />
+            <element signature="e#16053#16054#0" expanded="true" />
+            <element signature="e#16101#16102#0" expanded="true" />
+            <element signature="e#16148#16149#0" expanded="true" />
+            <element signature="e#16198#16199#0" expanded="true" />
+            <element signature="e#17571#17572#0" expanded="true" />
+            <element signature="e#17638#17639#0" expanded="true" />
+            <element signature="e#17690#17691#0" expanded="true" />
+            <element signature="e#17770#17771#0" expanded="true" />
+            <element signature="e#17987#17988#0" expanded="true" />
+            <element signature="e#18053#18054#0" expanded="true" />
+            <element signature="e#18907#18908#0" expanded="true" />
+            <element signature="e#18965#18966#0" expanded="true" />
+            <element signature="e#19006#19007#0" expanded="true" />
+            <element signature="e#19046#19047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonIPA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5985#5997#0" expanded="true" />
+            <element signature="e#6042#6050#0" expanded="true" />
+            <element signature="e#6387#6399#0" expanded="true" />
+            <element signature="e#6635#6647#0" expanded="true" />
+            <element signature="e#6922#6930#0" expanded="true" />
+            <element signature="e#10894#10895#0" expanded="true" />
+            <element signature="e#10924#10925#0" expanded="true" />
+            <element signature="e#11390#11391#0" expanded="true" />
+            <element signature="e#11457#11458#0" expanded="true" />
+            <element signature="e#12858#12859#0" expanded="true" />
+            <element signature="e#12925#12926#0" expanded="true" />
+            <element signature="e#13051#13063#0" expanded="true" />
+            <element signature="e#13273#13285#0" expanded="true" />
+            <element signature="e#13532#13533#0" expanded="true" />
+            <element signature="e#13575#13576#0" expanded="true" />
+            <element signature="e#13941#13942#0" expanded="true" />
+            <element signature="e#14008#14009#0" expanded="true" />
+            <element signature="e#14276#14284#0" expanded="true" />
+            <element signature="e#16067#16068#0" expanded="true" />
+            <element signature="e#16115#16116#0" expanded="true" />
+            <element signature="e#16162#16163#0" expanded="true" />
+            <element signature="e#16212#16213#0" expanded="true" />
+            <element signature="e#17585#17586#0" expanded="true" />
+            <element signature="e#17652#17653#0" expanded="true" />
+            <element signature="e#17704#17705#0" expanded="true" />
+            <element signature="e#17784#17785#0" expanded="true" />
+            <element signature="e#18001#18002#0" expanded="true" />
+            <element signature="e#18067#18068#0" expanded="true" />
+            <element signature="e#18921#18922#0" expanded="true" />
+            <element signature="e#18979#18980#0" expanded="true" />
+            <element signature="e#19020#19021#0" expanded="true" />
+            <element signature="e#19060#19061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/screenshots/selectus (06.18.2019-10:17AM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootCamp.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/resources/RunnerCNN.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/screenshots/login (06.18.2019-13:40PM).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/test/resources/runnerfacebook.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/test/java/TestRegression/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/src/test/resources/runneramzon.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/test/resources/runnercigna.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/test/java/TestRegression/TestHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/main/java/Regression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/MobileAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="218" lean-forward="true" selection-start-line="218" selection-end-line="218" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="78" column="25" lean-forward="true" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/test/java/TestRegression/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/src/test/java/TestRegression/TestHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/amazon/src/main/java/Regression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNN/src/main/java/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="83" column="44" lean-forward="true" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2601#2602#0" expanded="true" />
+            <element signature="e#2633#2634#0" expanded="true" />
+            <element signature="e#1669#1670#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/main/java/Regression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/MobileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/main/java/TestRegression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYPost/src/test/resources/NYPRenner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cigna</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.aventstack:extentreports:3.1.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
